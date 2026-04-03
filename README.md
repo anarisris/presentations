@@ -1,2 +1,4 @@
-# Presentations
-Collection of presentations I have held about front-end, UI and UX design related topics.
+# About
+Collection of given presentations about front end, UI/UX and design-related topics. 
+
+
